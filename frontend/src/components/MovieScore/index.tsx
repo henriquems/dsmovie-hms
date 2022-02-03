@@ -1,4 +1,3 @@
-import { NumericLiteral } from "typescript";
 import MovieStars from "../MovieStars";
 import './styles.css';
 
